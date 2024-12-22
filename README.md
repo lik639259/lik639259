@@ -29,9 +29,9 @@
 ## 📫 联系我
 如果您对我的项目感兴趣或有任何问题，或者有大佬有项目需要我帮忙，可以联系我（菜菜，求带😢）：
 
-- 📧 [Email](lik639259@hnu.edu.cn)
-- 🐧 [QQ](3605898168)
-- 🐦 [Twitter](https://twitter.com/lik639259)
+- 📧 lik639259@hnu.edu.cn
+- 🐧 3605898168
+- 🐦 https://twitter.com/lik639259
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lik639259&show_icons=true&theme=radical)
 
