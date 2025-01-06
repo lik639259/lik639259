@@ -34,7 +34,7 @@ I am familiar with the following technologies and tools:
 If you are interested in my projects or have any questions, or if anyone has a project that needs my help, you can contact me (please, I need guidance 😢):
 
 - 📧 lik639259@hnu.edu.cn
-- 🐧 3605898168
+- 🐧 3605898168@qq.com
 - 🐦 https://twitter.com/lik639259
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lik639259&show_icons=true&theme=radical)
